@@ -1,6 +1,4 @@
-# HiLo-Network for 3D Baggage Segmentation
-!!! PAPER CAN BE FOUND IN THIS BRANCH, TOO!!! <br />
-Datasets are available on the lab 20 machine (fastdata). The correct paths are already used in the scripts if this repository is downloaded to your home directory. You may need to install pykdtree (https://github.com/storpipfugl/pykdtree), in case you want to check anything concerning Occupancy Networks. For the HiLo-Network cnn-approach this is not needed. 
+# HiLo-Networks
 
 
 This repo comes with 4 pretrained models, other models are available on request (due to memory consumption).
